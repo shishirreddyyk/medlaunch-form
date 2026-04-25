@@ -15,7 +15,7 @@ A fully functional multi-step accreditation quote request form built for the Med
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/medlaunch-form.git
+git clone https://github.com/shishirreddyyk/medlaunch-form.git
 cd medlaunch-form
 
 # Install dependencies
